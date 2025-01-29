@@ -11,3 +11,6 @@ print("best" not in txt)
 
 b = "Hello, World!"
 print(b[-5:-2])
+
+w = "Hello, World!"
+print(w.replace("H", "J"))
