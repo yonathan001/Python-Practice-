@@ -1,0 +1,13 @@
+a = "Hello, World!"
+print(a[0])
+
+for x in "banana":
+  print(x)
+  
+
+
+  txt = "The best things in life are free!"
+print("best" not in txt)
+
+b = "Hello, World!"
+print(b[-5:-2])
