@@ -3,7 +3,7 @@ import psycopg2
 from urllib.parse import parse_qs
 import os
 
-# Database settings
+# Database 
 DB_NAME = "mydbcrud"
 DB_USER = "postgres"
 DB_PASSWORD = "postgres"
