@@ -18,3 +18,6 @@ capitals.update({"ethiopia":"addis ababa"})
 
 capitals.pop("kenya")
 print(capitals)
+
+
+
