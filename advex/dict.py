@@ -6,9 +6,13 @@
 capitals = {"ethiopia":"Shger" ,
                 "kenya":"nairobi"}
     
+#print(capitals.get("ethiopia"))
 
+#if capitals.get("japan"):
+ #   print("japan is in the dictionary")
+#else:
+ #   print("japan doent exist in dictionary")
 
-if capitals.get("japan"):
-    print("japan is in the dictionary")
-else:
-    print("japan doent exist in dictionary")
+capitals.update({"germany":"berlin"})
+capitals.update({"ethiopia":"addis ababa"})
+print(capitals)
