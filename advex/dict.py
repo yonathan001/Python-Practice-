@@ -15,4 +15,6 @@ capitals = {"ethiopia":"Shger" ,
 
 capitals.update({"germany":"berlin"})
 capitals.update({"ethiopia":"addis ababa"})
+
+capitals.pop("kenya")
 print(capitals)
